@@ -1,0 +1,88 @@
+.frame1
+{
+    width: 100%;
+    height: 200px;
+    color: #cccfd3;
+    text-align: right;
+}
+.profile
+{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.background
+{
+    width: 100%;
+    background: linear-gradient(180deg, #4b449e 26.56%, rgba(255, 255, 255, 0) 100%);
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    padding: 35px;
+}
+.profile_titulo
+{
+    font-size: 24pt;
+    font-weight: bold;
+}
+.profile_text
+{
+    background-color: white;
+    width: 90%;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    padding: 35px;
+}
+span
+{
+    cursor: pointer;
+}
+h2
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+.profile_add_capa
+{
+    margin-right: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.profile_mais
+{
+    position: absolute;
+    width: 32px;
+    height: 24px;
+    right: 30px;
+    top: 220px;
+    
+    font-family: Rosario;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    
+    background-color: blue;
+    color: #FFFFFF;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.profile_mais a
+{
+    color: white;
+}
+.profile_editar
+{
+    position: absolute;
+    right: 40px;
+    top: 720px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+a
+{
+    text-decoration: none;   
+}
